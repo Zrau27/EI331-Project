@@ -1,6 +1,6 @@
 # EI331-Project
 
-This project was completed by the group of Jintao Gao, NNLXD, Ling Tang, Le Zhang, Yutong Zhang and ZiHang Zhou.
+This project was completed by the group of Gao Jintao, NNLXD, Tang Ling, Zhang Le, Zhang Yutong and Zhou Zihang .
 
 Someone's name is replaced because of whose requirement.
 Don't feel strange.
